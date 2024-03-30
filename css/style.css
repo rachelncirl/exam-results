@@ -1,0 +1,98 @@
+body {
+	font: 400 15px Lato, sans-serif;
+	line-height: 1.8;
+	color: #818181;
+	background-color: #FEFEFF;
+}
+
+h1 {
+	font-size: 50px;
+	color: #198754;
+	font-family: "Roboto", sans-serif;
+}
+
+h2 {
+	color: #173148;
+	font-family: "Roboto", sans-serif;
+	margin-bottom:30px;
+}
+
+h4 {
+	font-size: 19px;
+	line-height: 1.375em;
+	color: #303030;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+p,li {
+	color: #173148;
+	font-family: "Montserrat", sans-serif;
+}
+
+ul {
+	list-style-type:circle;
+}
+
+a {
+	color: #00AADB;
+	font-family: "Montserrat", sans-serif;
+}
+
+span {
+	white-space: nowrap;
+}
+
+.bg-blue {
+	background-color: #173148;
+}
+
+.center {
+	text-align: center;
+	margin-left: 1em;
+}
+
+.center-align {
+    align-items: center
+}
+
+.justify-text {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.padded-logo {
+	padding: 10px 10px 10px 50px;
+}
+
+.padded-container {
+	padding: 60px 50px;
+}
+
+.navbar {
+	background-color: white;
+	font-size: 15px;
+	line-height: 1.42857143;
+	letter-spacing: 4px;
+	font-family: Montserrat, sans-serif;
+}
+
+.dropdown-menu-right {
+   right: 0 !important;
+   left: auto !important;
+}
+
+.banner-image img {
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+	object-position: 0% 75%;
+}
+
+.padding-bottom {
+   margin-bottom:20px;
+}
+
+.padding-top {
+   margin-top:20px;
+}
